@@ -1,0 +1,87 @@
+:root {
+    --spacing-unit: 4px;
+}
+
+body {
+    margin: 0;
+    padding: calc(var(--spacing-unit) * 4);
+}
+
+/*-------------------------------
+   Utilities
+--------------------------------*/
+
+/* Display */
+.display--flex {
+    display: flex;
+    align-items: center;
+}
+
+.flex--1 {
+    flex: 1;
+}
+
+/* Spacing */
+.mt-1 {
+    margin-top: var(--spacing-unit);
+}
+
+.mt-2 {
+    margin-top: calc(var(--spacing-unit) * 2);
+}
+
+.mt-3 {
+    margin-top: calc(var(--spacing-unit) * 3);
+}
+
+.mt-4 {
+    margin-top: calc(var(--spacing-unit) * 4);
+}
+
+.mb-1 {
+    margin-bottom: var(--spacing-unit);
+}
+
+.mb-2 {
+    margin-bottom: calc(var(--spacing-unit) * 2);
+}
+
+.mb-3 {
+    margin-bottom: calc(var(--spacing-unit) * 3);
+}
+
+.mb-4 {
+    margin-bottom: calc(var(--spacing-unit) * 4);
+}
+
+.mr-1 {
+    margin-right: var(--spacing-unit);
+}
+
+.mr-2 {
+    margin-right: calc(var(--spacing-unit) * 2);
+}
+
+.mr-3 {
+    margin-right: calc(var(--spacing-unit) * 3);
+}
+
+.mr-4 {
+    margin-right: calc(var(--spacing-unit) * 4);
+}
+
+.ml-1 {
+    margin-left: var(--spacing-unit);
+}
+
+.ml-2 {
+    margin-left: calc(var(--spacing-unit) * 2);
+}
+
+.ml-3 {
+    margin-left: calc(var(--spacing-unit) * 3);
+}
+
+.ml-4 {
+    margin-left: calc(var(--spacing-unit) * 4);
+}

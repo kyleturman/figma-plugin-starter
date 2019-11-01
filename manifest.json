@@ -1,0 +1,7 @@
+{
+  "api": "1.0.0",
+  "name": "Figma Plugin Starter",
+  "main": "plugin.js",
+  "ui": "ui.html",
+  "id": "000000000000000000"
+}
