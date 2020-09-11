@@ -10,26 +10,26 @@
   "author": "Kyle Turman",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-transition-group": "^4.3.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-transition-group": "^4.4.1"
   },
   "devDependencies": {
-    "@types/react": "^16.8.23",
-    "@types/react-dom": "^16.8.5",
-    "@types/react-transition-group": "^4.2.3",
-    "copy-webpack-plugin": "^5.0.4",
-    "css-loader": "^3.1.0",
+    "@types/react": "^16.9.49",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-transition-group": "^4.4.0",
+    "copy-webpack-plugin": "^5.1.2",
+    "css-loader": "^3.6.0",
     "html-webpack-inline-source-plugin": "0.0.10",
     "html-webpack-plugin": "^3.2.0",
     "prettier": "1.18.2",
     "prettier-webpack-plugin": "1.2.0",
     "react-svg-loader": "^3.0.3",
     "style-loader": "^0.23.1",
-    "ts-loader": "^6.0.4",
-    "typescript": "^3.5.3",
-    "url-loader": "^2.1.0",
-    "webpack": "^4.38.0",
-    "webpack-cli": "^3.3.9"
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.9.7",
+    "url-loader": "^2.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   }
 }
